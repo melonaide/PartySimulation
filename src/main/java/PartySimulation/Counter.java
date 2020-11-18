@@ -1,6 +1,6 @@
 package PartyPackage;
 
-//HELLO THIS IS MELANIEEEEeeeeee
+//HELLO THIS IS MELANIEEEEeeeeeennn
 
 /**
  * Provide a counter for a participant in the simulation.
